@@ -1,0 +1,54 @@
+.flex1{
+    display: flex;
+  }
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin-left: 20px;
+  /* display: flex; */
+
+  text-align: center;
+  font-family: arial;
+  padding-bottom: 180px;
+}
+
+.price {
+    padding-top: 30px;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  margin-right: 20px;
+}
+.heading{
+    text-align: center;
+    color:black;
+    text-transform:uppercase ;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+}
+.heading span{
+    color:#65809b;
+    margin: 7px;
+    text-transform: uppercase;
+
+}
+
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color:#10847e;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+p{
+  color:red;
+}

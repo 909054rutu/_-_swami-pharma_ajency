@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+.heading{
+    padding-top: 50px;
+    text-align: center;
+    color:black;
+    text-transform:uppercase ;
+    padding-bottom: 3.5rem;
+    font-size: 4rem;
+    
+}
+.heading span{
+    color:#65809b;
+    margin: 7px;
+    text-transform: uppercase;
+
+}
+b{
+    text-align: center;
+    margin-left: 180px;
+    font-size: 15px;
+    color:darkslategrey;
+    
+}
+.btn1{
+    margin-left: 180px;
+    width: 100px;
+}
+.image img{
+    height: 20px;
+}
