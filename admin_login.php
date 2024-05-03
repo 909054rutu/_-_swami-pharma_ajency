@@ -19,7 +19,7 @@
         </div>
         <div class="input-group">
           <input type="password" name="r2" required>
-          <!-- <input type="password" id="psw" name="r2" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required> -->
+          <!-- <input type="password" id="psw" name="r2" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required> -->
           <label for="">Password</label>
         </div>
         <button type="submit">Login</button>
